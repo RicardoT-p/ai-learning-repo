@@ -1,0 +1,3 @@
+{"id":"1","source":"web","text":"太短"}
+{"id":"2","source":"web","text":"Ray Data 可以把数据处理任务拆分到多个工作进程。"}
+{"id":"3","source":"forum","text":"数据规模超过单机能力后，才需要真正的分布式集群。"}

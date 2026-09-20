@@ -1,0 +1,2 @@
+{"id":"case-1","question":"Python 的 asyncio 适合什么任务？","response":"它适合包含大量网络或磁盘等待的 I/O 密集任务。","reference":"asyncio 主要适用于 I/O 密集型并发任务。"}
+{"id":"case-2","question":"Parquet 是什么？","response":"Parquet 是一种面向分析场景的列式存储格式。","reference":"Apache Parquet 是列式数据文件格式，常用于分析工作负载。"}

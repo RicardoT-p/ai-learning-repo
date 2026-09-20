@@ -1,0 +1,3 @@
+{"id": "math-1", "prompt": "1+1等于多少？", "expected": "2", "baseline": "答案是3", "candidate": "2", "human_preference": "candidate"}
+{"id": "capital-1", "prompt": "中国的首都是哪里？", "expected": "北京", "baseline": "北京", "candidate": "中国的首都是北京", "human_preference": "tie"}
+
